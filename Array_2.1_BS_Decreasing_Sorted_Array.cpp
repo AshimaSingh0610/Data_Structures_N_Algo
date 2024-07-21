@@ -1,5 +1,8 @@
 //!BS1 => Search on Reverse Sorted Array
-//* Given an array arr[] sorted in decreasing order, and an integer X, the task is to check if X is present in the given array or not. If X is present in the array, print its index ( 0-based indexing). Otherwise, print -1.
+//* Given an array arr[] sorted in decreasing order, and an integer X,
+//* the task is to check if X is present in the given array or not. If X is present in the array,
+//* print its index ( 0-based indexing). Otherwise, print -1.
+
 //* GFG => https://www.geeksforgeeks.org/search-an-element-in-a-reverse-sorted-array/
 
 //!Brute Force => Linear Search
@@ -7,6 +10,8 @@
 
 #include<iostream>
 using namespace std;
+
+//Function of BS
 int bS(int arr[],int start,int end,int x)
 { //*By Recursion
     if(start>end)
@@ -24,6 +29,7 @@ int bS(int arr[],int start,int end,int x)
 
 }
 
+//Main Fuction
 int main(void)
 {
     int arr[]={5,4,3,2,1};
