@@ -311,7 +311,7 @@ TODO:  Input/output operations (cin, cout, file I/O)
 
 
 
-TODO : Control flow:
+//*  -------------------------      Control FLow       -------------------------
 
 * Control flow is the order in which the statements in a program are executed.
 * Control flow is used to determine the order in which the statements in a program are executed.
@@ -391,7 +391,11 @@ TODO : Control flow:
 *        } while (i < 5);
 *        //* outputs: 01234
 
-TODO: Functions:
+
+
+//*  -------------------------      Function       -------------------------
+
+
 * Functions are used to perform a specific task.
 * Functions are used to break a program into smaller pieces.
 * Functions are used to make a program more modular.
@@ -460,7 +464,10 @@ TODO: Functions:
 *            }
 *        }
 
-TODO: Arrays:
+
+//*  -------------------------      Array       -------------------------
+
+
 * Arrays are used to store multiple values in a single variable.
 * Arrays are used to store a collection of values.
 * Arrays are used to store a fixed-size sequential collection of elements of the same type.
@@ -498,8 +505,10 @@ TODO: Arrays:
 *        //* numbers = {1, 2, 10, 4, 5};
 
 
-TODO: Strings 
 
+
+//*  -------------------------      Array       -------------------------
+ 
 * Strings are used to store a sequence of characters.
 * Strings are used to store text.
 * Strings are used to store words, sentences, and paragraphs.
