@@ -507,7 +507,7 @@ TODO:  Input/output operations (cin, cout, file I/O)
 
 
 
-//*  -------------------------      Array       -------------------------
+//*  -------------------------      String       -------------------------
  
 * Strings are used to store a sequence of characters.
 * Strings are used to store text.
