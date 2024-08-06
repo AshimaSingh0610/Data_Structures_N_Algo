@@ -73,16 +73,25 @@ Here's what’s available in the repository so far:
 
 ## 🙌 Contributing
 
-Contributions are always welcome!
+We love contributions! 
+Help us make Fresh Feeds even better by contributing to the project. 
+Your input is highly valued. 🤗
 
 - Fork the Project
 
-- Create your Feature Branch
-  
-- Commit your Changes
+- Create your Feature Branch 
+```
+(git checkout -b feature/AmazingFeature)
+```
+- Commit your Changes 
+```
+(git commit -m 'Add some AmazingFeature')
+```
 
-- Push to the Branch
-
+- Push to the Branch 
+```
+(git push origin feature/AmazingFeature)
+```
 - Open a Pull Request
 1. Navigate to the "Pull Requests" tab in the repository.
 2. Click "New Pull Request".
@@ -96,11 +105,12 @@ Contributions are always welcome!
 - Once approved, your changes will be merged into the main branch.
 
 ## ✍️ Authors
-@AshimaSingh0610 - Creator & Maintainer
+- [@AshimaSingh0610](https://github.com/AshimaSingh0610) - Creator & Maintainer
 
 ## 🤝 Collaborators
 We appreciate the following contributors for their valuable input:
-@Amartya-007 - Contributor
+- @Amartya-007 -  Contributor
+
 
 
 Feel free to reach out if you have any questions or need further assistance. Thank you for contributing!
