@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="" rel="noopener">
+    <img width=800px height=800px src="https://media.licdn.com/dms/image/C5622AQHk7RgXgxrOgQ/feedshare-shrink_800/0/1676361265109?e=2147483647&v=beta&t=fB9Djaq41Qj_1BHxoIKcKEQQldWniuLjZ54WtRhPh3Y" alt="Logo">
+  </a>
+</p>
+
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/AshimaSingh0610/Data_Structures_And_Algorithms.svg)](https://github.com/AshimaSingh0610/Data_Structures_And_Algorithms/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/AshimaSingh0610/Data_Structures_And_Algorithms.svg)](https://github.com/AshimaSingh0610/Data_Structures_And_Algorithms/pulls)
+
+</div>
 
 # 📚 Data Structures & Algorithms (DSA) Practice 📊
 
@@ -55,28 +69,40 @@ Here's what’s available in the repository so far:
 - 🔄 Continuous Updates: The repository will be regularly updated with new problems, solutions, and improvements.
 
 - 🔧 Community Contributions: We encourage contributions from the community to enhance the repository.
+  
+
 ## 🙌 Contributing
- 
- Contributions are always welcome!
+
+Contributions are always welcome!
 
 - Fork the Project
 
-- Create your Feature Branch 
-```
-(git checkout -b feature/AmazingFeature)
-```
-- Commit your Changes 
-```
-(git commit -m 'Add some AmazingFeature')
-```
+- Create your Feature Branch
+  
+- Commit your Changes
 
-- Push to the Branch 
-```
-(git push origin feature/AmazingFeature)
-```
+- Push to the Branch
+
 - Open a Pull Request
+1. Navigate to the "Pull Requests" tab in the repository.
+2. Click "New Pull Request".
+3. Select your feature branch and compare it with the main branch.
+4. Add a descriptive title and comments about your changes.
+5. Click "Create Pull Request".
+
+   
+## Review Process:
+- Your pull request will be reviewed by the maintainers. They may suggest or request changes.
+- Once approved, your changes will be merged into the main branch.
+
+## ✍️ Authors
+@AshimaSingh0610 - Creator & Maintainer
+
+## 🤝 Collaborators
+We appreciate the following contributors for their valuable input:
+@Amartya-007 - Contributor
 
 
-
+Feel free to reach out if you have any questions or need further assistance. Thank you for contributing!
 
 
